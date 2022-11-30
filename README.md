@@ -11,3 +11,5 @@
 The challenge is to build out this product preview card component and get it looking as close to the design as possible.
 
 [Solution](https://payal033.github.io/Product-Preview-card/)
+
+![solution screenshot](./solution/solution.png)
